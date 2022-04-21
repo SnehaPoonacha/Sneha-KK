@@ -3,5 +3,6 @@ To run this code
 #python ChatBot.py
 
 Terminal based Chatbot :
-![Image](https://user-images.githubusercontent.com/91415595/164467911-fa7e03b5-7d4f-454b-b7d1-3511085677ee.jpg)
+![Image](https://user-images.githubusercontent.com/91415595/164510321-c78d92d7-c146-4f78-b39f-51180d0f7bd2.png)
+
 
